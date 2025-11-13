@@ -132,21 +132,21 @@ The Streamlit interface allows users to:
 3. **Run the streamlit app**
    streamlit run app.py
 
---
+---
 
 ## 🏆 Results
 1. Model achieves ~80% accuracy on unseen match data
 2. Predictions align closely with real-life IPL trends
 3. Demonstrates end-to-end data engineering → modeling → deployment
 
---
+---
 
 ## ❤️ Acknowledgements
 - Data: Cricsheet.org
 - Libraries: Streamlit, Scikit-learn, Pandas, Matplotlib
 - Developer: Tushar Chaudhary
 
---
+---
 
 ## 📫 Contact
 - 📧 chaudharytushar017@gmail.com
